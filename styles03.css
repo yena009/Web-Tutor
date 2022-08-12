@@ -1,0 +1,15 @@
+@import "reset.css";
+
+/* <!-- components --> */
+
+
+@import "main.css";
+@import "CSS/components/status-bar.css";
+@import "CSS/components/settings.css";
+@import "CSS/components/list.css";
+@import "CSS/components/nav.css";
+
+body{
+    height: 300vh;
+    color: rgb(29, 29, 29);
+}

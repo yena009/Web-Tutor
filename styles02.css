@@ -1,0 +1,24 @@
+@import "reset.css";
+
+/* <!-- components --> */
+
+
+@import "main.css";
+@import "CSS/components/status-bar.css";
+@import "CSS/components/main-screen.css";
+@import "CSS/components/more-screen.css";
+@import "CSS/components/screen-header.css";
+@import "CSS/components/more-suggestions.css";
+@import "CSS/components/nav.css";
+
+body{
+    height: 300vh;
+    color: rgb(29, 29, 29);
+}
+
+
+
+
+
+
+

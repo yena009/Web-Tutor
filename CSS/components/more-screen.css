@@ -1,0 +1,171 @@
+.more-screen{
+    border-bottom: solid 2px #ededed;
+    margin: 0 10px;
+}
+
+.more-screen1{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    margin-top: 20px;
+}
+
+.calendar {
+    display: block;
+    align-items: center;
+    text-align: center;
+   margin-left: 20px;
+}
+
+.calendar i{
+   display: inline-block;
+   margin-bottom: 20px;
+}
+
+.calendar p{
+    text-align: center;
+    color: #9e9e9e;
+    font-weight: 500;
+
+}
+
+
+.emotions {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+.emotions i{
+   display: inline-block;
+   margin-bottom: 20px;
+}
+
+.emotions p{
+    text-align: center;
+    color: #9e9e9e;
+    font-weight: 500;
+}
+
+
+.themes {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+.themes i{
+   display: inline-block;
+   margin-bottom: 20px;
+}
+
+.themes p{
+    text-align: center;
+    color: #9e9e9e;
+    font-weight: 500;
+}
+
+
+.account {
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.account i{
+   display: inline-block;
+   margin-bottom: 20px;
+}
+
+.account p{
+    text-align: center;
+    color: #9e9e9e;
+    font-weight: 500;
+}
+
+
+/* more2 */
+
+.more-screen2{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.openchat {
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.openchat i{
+   display: inline-block;
+   margin-bottom: 20px;
+}
+
+.openchat p{
+    text-align: center;
+    color: #9e9e9e;
+    font-weight: 500;
+}
+
+
+.drive {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+.drive i{
+   display: inline-block;
+   margin-bottom: 20px;
+}
+
+.drive p{
+    text-align: center;
+    color: #9e9e9e;
+    font-weight: 500;
+}
+
+
+.game {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+.game i{
+   display: inline-block;
+   margin-bottom: 20px;
+}
+
+.game p{
+    text-align: center;
+    color: #9e9e9e;
+    font-weight: 500;
+}
+
+
+.gift {
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-right: 30px;
+}
+
+.gift i{
+   display: inline-block;
+   margin-bottom: 20px;
+}
+
+.gift p{
+    text-align: center;
+    color: #9e9e9e;
+    font-weight: 500;
+}
+
+

@@ -1,0 +1,63 @@
+.main-screen{
+    display: flex;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+   
+}
+
+img{
+    width: 90px;
+    border-radius: 50%;
+    border: 1px solid;
+    border-color: #ededed;
+    
+}
+
+.info{
+    margin: auto 20px;
+}
+
+.info p{
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 5px;
+    
+}
+
+.phone-number{
+    display: flex;
+}
+
+.phone-number small{
+    margin:5px 0;
+}
+
+.phone-number small:first-child{
+    color: rgb(153, 153, 153);
+}
+
+.phone-number small:nth-child(2){
+    margin:auto 10px;
+    color: #ff0000;
+}
+.circle{
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 1px solid;
+    border-color: #ff0000;
+    margin: auto -20px;
+    justify-content: flex-end;
+}
+
+.talk-icon{
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.talk-icon i {
+    width: 110px;
+    display: flex;
+    justify-content: flex-end;
+}

@@ -1,0 +1,32 @@
+.nav{
+    bottom: 0;
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    padding: 20px;
+    width: 100%;
+    background-color: #fafafa;
+    border: 2px solid #dbdbdb;
+}
+
+.nav i{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5%;
+    margin: auto;
+    width: 100%; 
+    opacity: 80%;
+}
+
+.nav button{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5%;
+    margin: auto;
+    margin-top: 10px;
+    width: 100%;
+    border-style:none;
+    background-color: #fafafa;
+    opacity: 80%;
+    
+}  

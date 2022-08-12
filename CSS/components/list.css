@@ -1,0 +1,38 @@
+.list{
+    display: block;
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+}
+
+.list span{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.list i{
+    opacity: 50%;
+    margin-right: 24px;
+}
+
+.noticeDiv{
+    display: flex;
+    padding: 24px 0px;
+    border-bottom: 2px solid #ededed;
+}
+
+.kakaoDiv{
+    display: flex;
+    padding: 24px 0px;
+    border-bottom: 2px solid #ededed;
+}
+
+.versionDiv{
+    display: flex;
+    padding: 24px 0px;
+    border-bottom: 2px solid #ededed;
+}
+
+.versionDiv span:nth-child(3){
+    margin-left: 160px;
+    color: #909090;
+}

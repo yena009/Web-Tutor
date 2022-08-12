@@ -1,0 +1,14 @@
+
+.settings-bar{
+    display: flex;
+    margin-top: 26px;
+    padding: 25px;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+}
+
+.settings-bar span{
+ font-size: 30px;
+ font-weight: 600;
+}
+
